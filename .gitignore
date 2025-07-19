@@ -1,0 +1,12 @@
+# Environment
+venv/
+.env
+
+# Data and Database
+data/
+chroma_db/
+images/
+
+# Python cache
+__pycache__/
+*.pyc

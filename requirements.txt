@@ -1,0 +1,20 @@
+# File: requirements.txt (Final Version)
+
+# Core LangChain and Google components
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+
+# For data handling and app
+streamlit
+pandas
+openpyxl
+python-dotenv
+Pillow
+
+# Direct PDF processing library (the stable alternative)
+PyMuPDF
+
+# Email processing
+unstructured-client
